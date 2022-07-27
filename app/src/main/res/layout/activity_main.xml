@@ -53,10 +53,10 @@
         android:layout_below="@id/linear_nav_bar"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
-        android:text="Olá, Kotlin"
-        android:textSize="18sp"
-        android:textColor="@color/black"
         android:fontFamily="@font/cabin"
+        android:text="Olá, Kotlin"
+        android:textColor="@color/black"
+        android:textSize="18sp"
 
         />
 
