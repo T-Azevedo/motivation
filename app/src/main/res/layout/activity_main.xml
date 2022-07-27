@@ -54,7 +54,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/cabin"
-        android:text="Olá, Kotlin"
+        android:text="@string/hello_name"
         android:textColor="@color/black"
         android:textSize="18sp"
 
